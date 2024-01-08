@@ -1,0 +1,126 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(OpenGL.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Camera.cpp
+C:\Users\Lenovo\Desktop\CW2\Camera.h(19,16): warning C4305: “初始化”: 从“double”到“float”截断
+  CSpeed.cpp
+C:\Users\Lenovo\Desktop\CW2\Mesh.h(62,50): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\Camera.h(19,16): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\CW2\CSpeed.h(15,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\CW2\CSpeed.h(24,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\CW2\CSpeed.h(55,35): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\CSpeed.h(56,24): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\CSpeed.h(57,35): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\CSpeed.cpp(26,14): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\CW2\CSpeed.cpp(28,14): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\CW2\CSpeed.cpp(30,14): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\CW2\CSpeed.cpp(32,14): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\CW2\CSpeed.cpp(40,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\CSpeed.cpp(42,14): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\CW2\CSpeed.cpp(44,14): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\CW2\CSpeed.cpp(46,14): warning C4305: “=”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\CW2\CSpeed.cpp(99,38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\CSpeed.cpp(101,43): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\CSpeed.cpp(147,29): warning C4244: “+=”: 从“genType”转换到“float”，可能丢失数据
+          with
+          [
+              genType=double
+          ]
+C:\Users\Lenovo\Desktop\CW2\CSpeed.cpp(158,29): warning C4244: “-=”: 从“genType”转换到“float”，可能丢失数据
+          with
+          [
+              genType=double
+          ]
+C:\Users\Lenovo\Desktop\CW2\CSpeed.cpp(171,13): warning C4305: “=”: 从“double”到“float”截断
+  CWindow.cpp
+C:\Users\Lenovo\Desktop\CW2\CWindow.cpp(78,9): warning C4101: “hBrush”: 未引用的局部变量
+  main.cpp
+C:\Users\Lenovo\Desktop\CW2\Mesh.h(62,50): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\Camera.h(19,16): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\CW2\CSpeed.h(15,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\CW2\CSpeed.h(24,19): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\Lenovo\Desktop\CW2\CSpeed.h(55,35): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\CSpeed.h(56,24): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\CSpeed.h(57,35): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(162,89): warning C4244: “参数”: 从“genType”转换到“float”，可能丢失数据
+          with
+          [
+              genType=double
+          ]
+C:\Users\Lenovo\Desktop\CW2\main.cpp(162,68): warning C4244: “参数”: 从“genType”转换到“float”，可能丢失数据
+          with
+          [
+              genType=double
+          ]
+C:\Users\Lenovo\Desktop\CW2\main.cpp(167,2): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(167,2): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(167,21): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(167,21): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(167,40): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(167,40): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(168,3): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(168,3): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(168,21): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(168,21): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(168,34): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(168,34): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(168,45): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(168,45): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(169,3): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(169,3): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(169,22): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(169,22): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(169,34): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(169,34): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(170,3): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(170,3): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(170,22): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(170,22): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(170,34): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(170,34): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(171,2): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(171,2): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(171,22): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(171,22): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(172,2): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(172,2): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(172,21): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(172,21): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(172,40): warning C4838: 从“int”转换到“float”需要收缩转换
+C:\Users\Lenovo\Desktop\CW2\main.cpp(172,40): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(206,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(229,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(230,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(234,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(235,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(239,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(240,10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(286,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\Lenovo\Desktop\CW2\main.cpp(460,94): warning C4244: “参数”: 从“genType”转换到“float”，可能丢失数据
+          with
+          [
+              genType=double
+          ]
+C:\Users\Lenovo\Desktop\CW2\main.cpp(460,73): warning C4244: “参数”: 从“genType”转换到“float”，可能丢失数据
+          with
+          [
+              genType=double
+          ]
+  Shader.cpp
+  正在生成代码...
+glfw3.lib(init.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(init.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(window.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(window.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(input.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(input.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(context.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(context.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_init.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_init.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_monitor.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_monitor.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_time.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_time.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_thread.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_thread.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(monitor.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(monitor.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(vulkan.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(vulkan.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_window.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_window.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(win32_joystick.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(win32_joystick.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(wgl_context.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(wgl_context.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(egl_context.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(egl_context.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glfw3.lib(osmesa_context.obj) : warning LNK4099: 未找到 PDB“”(使用“glfw3.lib(osmesa_context.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“”(使用“glew32s.lib(glew.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  CW2.vcxproj -> C:\Users\Lenovo\Desktop\CW2\x64\Debug\CW2.exe

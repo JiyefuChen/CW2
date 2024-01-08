@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(OpenGL.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  CWindow.cpp
+C:\Users\Lenovo\Desktop\CW2\CWindow.cpp(78,9): warning C4101: “hBrush”: 未引用的局部变量
+  CW2.vcxproj -> C:\Users\Lenovo\Desktop\CW2\x64\Debug\CW2.exe
